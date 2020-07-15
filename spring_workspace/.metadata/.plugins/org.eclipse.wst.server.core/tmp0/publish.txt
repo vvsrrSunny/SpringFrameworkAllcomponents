@@ -1,0 +1,7 @@
+#Tomcat publish data
+#Sat Dec 29 00:33:30 IST 2018
+org.eclipse.jst.jee.server\:/binary\:D\:\\code\\spring_workspace\\springSecurity\\WebContent\\WEB-INF\\lib\\spring-web-5.0.0.RELEASE.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\code\\spring_workspace\\springSecurity\\WebContent\\WEB-INF\\lib\\spring-web-5.0.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\lalitha\\.m2\\repository\\org\\springframework\\spring-web\\4.3.0.RELEASE\\spring-web-4.3.0.RELEASE.jar=WEB-INF/lib/spring-web-4.3.0.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\code\\spring_workspace\\MyFirstMVCProj\\WebContent\\WEB-INF\\lib\\spring-web-5.0.0.RELEASE-sources.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\code\\spring_workspace\\MyFirstMVCProj\\WebContent\\WEB-INF\\lib\\spring-web-5.0.0.RELEASE.jar=WEB-INF/lib/spring-web-5.0.0.RELEASE.jar

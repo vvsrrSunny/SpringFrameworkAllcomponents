@@ -1,1 +1,3 @@
 # SpringFrameworkAllcomponents
+Each folder is an individual component or technique offered by the spring framework. One of these folders is "springProjectAllJarsSingeShort" which has all the jars required to run the code. Like all the files of spring framework jar, Hibernate, JDBC, and log jars.
+All the programs were executed around in 2018 and 2019. From the names of the folders the components that were used are self-explanatory.     

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+	<bean id="ans1" class="com.disi.Answer" p:id="1"
+		p:answer="java is a platfom independent which was unique feature back then"
+		p:postedDate="12/12/2017" />
+	<bean id="ans2" class="com.disi.Answer">
+		<property name="id" value="2"></property>
+		<property name="answer" value="java is a programng language"></property>
+		<property name="postedDate" value="10/04/2018"></property>
+	</bean>
+	<bean id="user1" class="com.disi.User">
+		<property name="id" value="10"></property>
+		<property name="name" value="Bharadwaj VVR"></property>
+		<property name="email" value="bharadwaj@gmail.com"></property>
+	</bean>
+	<bean id="user2" class="com.disi.User">
+		<property name="id" value="20"></property>
+		<property name="name" value="sai kiran"></property>
+		<property name="email" value="sai@gmail.com"></property>
+	</bean>
+
+</beans>

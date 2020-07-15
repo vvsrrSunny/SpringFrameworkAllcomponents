@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:p="http://www.springframework.org/schema/p"
+	xmlns:util="http://www.springframework.org/schema/util" xmlns:c="http://www.springframework.org/schema/c"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans  
+                http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+
+	<bean id="address" class="com.iocpackage.Address">
+		<constructor-arg value="hyderabad in spring ioc 1"></constructor-arg>
+		<constructor-arg value="Telengana"></constructor-arg>
+		<constructor-arg value="India"></constructor-arg>
+	</bean>
+	<bean id="employee" class="com.iocpackage.Employee" autowire="constructor">
+		<constructor-arg value="12" type="Integer"></constructor-arg>
+		<constructor-arg value="Bharadwaj VVR testing in spring ioc"></constructor-arg>
+	</bean>
+</beans>

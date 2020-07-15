@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="D:\Education\Geneal java poject archives\Spring4MVCHelloWorldRestServiceDemo.zip"/>
+		<item value="D:\Education\Geneal java poject archives\spring-with-hibernate-persistence-and-transactions-example.zip"/>
+		<item value="D:\Education\Geneal java poject archives\SpringExample"/>
+		<item value="D:\Education\LearningSpring5.0_Code\Chapter03\Ch03_Spring_Hibernate_Integration"/>
+		<item value="D:\code\spring_workspace\spring-hibernate-jpa-example"/>
+		<item value="D:\Education\Geneal java poject archives\spring-hibernate-jpa-example"/>
+		<item value="D:\code\spring_workspace\WebApp"/>
+		<item value="D:\Education\LearningSpring5.0_Code\Chapter03\Ch03_DataSourceConfiguration"/>
+		<item value="D:\Education\LearningSpring5.0_Code\Chapter04\Ch04_JdbcTemplate_LoggingAspect_Annotation"/>
+		<item value="D:\Education\Geneal java poject archives\SpringJDBCTemplateExample"/>
+		<item value="D:\Education\Geneal java poject archives\spring-dependency-injection"/>
+	</list>
+	<section name="CleanDialogSettings">
+		<item value="662" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="423" key="DIALOG_HEIGHT"/>
+		<item value="629" key="DIALOG_X_ORIGIN"/>
+		<item value="233" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+		<item value="org.springsource.ide.eclipse.commons.gettingstarted.wizard.boot.NewSpringBootWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.springframework.ide.eclipse.beans.ui.wizards.category"/>
+			<item value="org.springsource.ide.eclipse.boot.wizards.category"/>
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="619" key="DIALOG_X_ORIGIN"/>
+		<item value="274" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

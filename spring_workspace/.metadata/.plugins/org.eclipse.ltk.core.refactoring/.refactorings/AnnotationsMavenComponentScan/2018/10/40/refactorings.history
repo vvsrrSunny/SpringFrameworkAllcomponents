@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 packages to &apos;spELTest/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;AnnotationsMavenComponentScan&apos;&#x0D;&#x0A;- Destination element: &apos;spELTest/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     AnnotationsMavenComponentScan/src/main/java/com.si.config&#x0D;&#x0A;     AnnotationsMavenComponentScan/src/main/java/com.si.beans&#x0D;&#x0A;     AnnotationsMavenComponentScan/src/main/java/com.si.biz" description="Copy packages" destination="=spELTest/src\/main\/java" element1="/src\/main\/java&lt;com.si.config" element2="/src\/main\/java&lt;com.si.beans" element3="/src\/main\/java&lt;com.si.biz" flags="589830" fragments="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1538563442776" version="1.0"/>
+</session>

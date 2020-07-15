@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="JpaAndHibernate"/>
+<aop-project name="TestingAndMocking"/>
+<aop-project name="DIExampleCodeAnnotations"/>
+<aop-project name="DataSourceJNDI"/>
+<aop-project name="AnnotationsMavenPureJavaAnnotation"/>
+<aop-project name="BeanInheritanceXML"/>
+<aop-project name="AnnotationsMavenComponentScan"/>
+<aop-project name="BeanLifeCycleTest"/>
+<aop-project name="AOPTesting"/>
+<aop-project name="SpringBoot"/>
+<aop-project name="spELTest"/>
+<aop-project name="DataSourceConfig"/>
+<aop-project name="SpringJNDITest"/>
+<aop-project name="DependancyInjectionBySetterMethodTest"/>
+<aop-project name="JdbcTempleteAndEnvVarAndProperties"/>
+<aop-project name="JdbcTempletFromBook"/>
+<aop-project name="IocTestWithConstructor"/>
+<aop-project name="CustomBeanFactory"/>
+<aop-project name="HangoutProjectSpringHB"/>
+</aop-reference-model>

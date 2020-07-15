@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 6 elements from project &apos;SecurityThroughDAO&apos;&#x0D;&#x0A;- Original project: &apos;SecurityThroughDAO&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     lib&#x0D;&#x0A;     commons-dbcp2-2.5.0-javadoc.jar&#x0D;&#x0A;     commons-dbcp2-2.5.0-sources.jar&#x0D;&#x0A;     commons-dbcp2-2.5.0-test-sources.jar&#x0D;&#x0A;     commons-dbcp2-2.5.0-tests.jar&#x0D;&#x0A;     commons-dbcp2-2.5.0.jar" description="Delete elements" element1="WebContent/WEB-INF/lib" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1545158593600" subPackages="false" version="1.0"/>
+</session>

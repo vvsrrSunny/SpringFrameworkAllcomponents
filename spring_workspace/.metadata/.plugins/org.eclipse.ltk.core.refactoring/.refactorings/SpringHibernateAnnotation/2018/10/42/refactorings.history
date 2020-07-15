@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.sh.beans&apos; to &apos;com.sh.model&apos;&#x0D;&#x0A;- Original project: &apos;SpringHibernateAnnotation&apos;&#x0D;&#x0A;- Original element: &apos;SpringHibernateAnnotation/src/main/java/com.sh.beans&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringHibernateAnnotation/src/main/java/com.sh.model&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.sh.beans&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.sh.beans" name="com.sh.model" qualified="false" references="true" stamp="1539686013841" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,12 @@
+127.0.0.1 - - [27/Dec/2018:23:17:11 +0530] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:17:26 +0530] "GET /SpringRestSample/ HTTP/1.1" 200 32
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:17:37 +0530] "GET /SpringRestSample/messi HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:18:24 +0530] "GET /SpringRestSample/hello/bharadwaj HTTP/1.1" 200 89
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:18:24 +0530] "GET /SpringRestSample/hello/bharadwaj HTTP/1.1" 200 89
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:18:25 +0530] "GET /SpringRestSample/hello/bharadwaj HTTP/1.1" 200 89
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:18:57 +0530] "GET /SpringRestSample/messi HTTP/1.1" 404 1047
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:19:17 +0530] "GET /SpringRestSample HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:19:17 +0530] "GET /SpringRestSample/ HTTP/1.1" 200 32
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:19:31 +0530] "GET /SpringRestSample/hello/sunny HTTP/1.1" 200 81
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:19:31 +0530] "GET /SpringRestSample/hello/sunny HTTP/1.1" 200 81
+0:0:0:0:0:0:0:1 - - [27/Dec/2018:23:29:23 +0530] "GET /SpringRestSample/hello/sunny HTTP/1.1" 200 81

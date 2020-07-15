@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;DataSourceJNDI&apos;&#x0D;&#x0A;- Original project: &apos;DataSourceJNDI&apos;&#x0D;&#x0A;- Original element: &apos;DataSourceJNDI/src/main/java/com.ds.beans&apos;" description="Delete element" element1="/src\/main\/java&lt;com.ds.beans" element2="/src\/main\/java&lt;com.ds" elements="2" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1539110206538" subPackages="false" version="1.0"/>
+</session>

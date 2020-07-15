@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans
+    http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+  
+<bean id="studentbean1" class="com.javasping.Student">  
+<property name="name" value="Bharadwaj"></property>  
+</bean>  
+  <bean id="studentbean2" class="com.javasping.Student">  
+<property name="name" value="Sai Kiran"></property>  
+</bean>
+<bean id="studentbean3" class="com.javasping.Student">  
+<property name="name" value="Lalitha"></property>  
+</bean>
+<bean id="studentbean4" class="com.javasping.Student">  
+<property name="name" value="Seshu"></property>  
+</bean>
+<bean id="department1" class="com.javasping.Department" scope="prototype">
+<property name="name" value="CSE"></property>
+<property name="students">
+<list>
+<ref bean="studentbean1"/>
+<ref bean="studentbean2"/>
+</list>
+</property>
+<property name="hod" value="Vishnu Murthi"></property>
+</bean>
+
+<bean id="department2" class="com.javasping.Department" factory-method="DepartmentFactoryMethod">
+<property name="name" value="ECE"></property>
+<property name="students">
+<list>
+<ref bean="studentbean3"/>
+<ref bean="studentbean4"/>
+</list>
+</property>
+<property name="hod" value="Raj"></property>
+</bean>
+<bean id="department3" class="com.javasping.Department" factory-method="DepartmentFactoryMethod">
+<property name="name" value="ECE"></property>
+<property name="students">
+<list>
+<ref bean="studentbean1"/>
+<ref bean="studentbean2"/>
+</list>
+</property>
+
+<property name="hod" value="Raj"></property>
+</bean>
+</beans>  
